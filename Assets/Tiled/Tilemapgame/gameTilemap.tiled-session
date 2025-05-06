@@ -1,0 +1,60 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Tilemap/TinyDungeon_Tilesheet.tsx",
+    "expandedProjectPaths": [
+        "Tilemap/tilemap",
+        ".",
+        "Tilemap"
+    ],
+    "fileStates": {
+        "Drafttilemap.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 176.99999999999997,
+                "y": 76.33333333333334
+            }
+        },
+        "Tilemap.tmx": {
+            "scale": 2.2844357976653695,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 128.69698518140012,
+                "y": 128.4781127576222
+            }
+        },
+        "Tilemap/TinyDungeon_Tilesheet.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        },
+        "Tilemap/tilemap/TinyDungeon_Tilesheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/Ben/OneDrive/Documents/GitHub/comp1151prac-tilemapgame-itsyaboi123123/Assets/Tiled/Tilemapgame/Tilemap",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "Tilemap/TinyDungeon_Tilesheet.tsx",
+        "Tilemap.tmx"
+    ],
+    "project": "gameTilemap.tiled-project",
+    "recentFiles": [
+        "Tilemap.tmx",
+        "Tilemap/TinyDungeon_Tilesheet.tsx",
+        "Tilemap/tilemap/TinyDungeon_Tilesheet.tsx",
+        "Drafttilemap.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
