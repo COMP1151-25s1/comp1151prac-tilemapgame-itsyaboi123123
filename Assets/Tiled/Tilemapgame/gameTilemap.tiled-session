@@ -5,9 +5,9 @@
     },
     "activeFile": "Tilemap/TinyDungeon_Tilesheet.tsx",
     "expandedProjectPaths": [
+        "Tilemap",
         "Tilemap/tilemap",
-        ".",
-        "Tilemap"
+        "."
     ],
     "fileStates": {
         "Drafttilemap.tmx": {

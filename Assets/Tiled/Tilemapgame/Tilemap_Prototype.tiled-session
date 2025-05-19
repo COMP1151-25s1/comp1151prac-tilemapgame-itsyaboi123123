@@ -1,0 +1,44 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Tilemap_prototype desert.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Tilemap_prototype desert.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 219,
+                "y": 97.75
+            }
+        },
+        "Tileset_Prototype.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        }
+    },
+    "last.imagePath": "C:/Users/Ben/Downloads/kenney_tiny-dungeon (1)/Tilemap",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "Tileset_Prototype.tsx",
+        "Tilemap_prototype desert.tmx"
+    ],
+    "project": "Tilemap_Prototype.tiled-project",
+    "recentFiles": [
+        "Tileset_Prototype.tsx",
+        "Tilemap_prototype desert.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

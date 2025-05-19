@@ -1,0 +1,56 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Tilemap_Asessment.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "C:/Users/Ben/OneDrive/Documents/GitHub/comp1151-game-prototype-itsyaboi123123/COMP1151 Game Prototype/Assets/Tiled/TilemapGame/Tileset Assessment.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Tilemap_Asessment.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 141,
+                "y": 146.75
+            }
+        },
+        "Tilemap_prototype desert.tmx": {
+            "scale": 3.28046875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128.0304834484401,
+                "y": 127.87806620623957
+            }
+        },
+        "Tileset_Prototype.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/Ben/Downloads/kenney_tiny-dungeon (1)/Tilemap",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "C:/Users/Ben/OneDrive/Documents/GitHub/comp1151-game-prototype-itsyaboi123123/COMP1151 Game Prototype/Assets/Tiled/TilemapGame/Tileset Assessment.tsx",
+        "Tilemap_Asessment.tmx"
+    ],
+    "project": "Tilemap Assessment.tiled-project",
+    "recentFiles": [
+        "C:/Users/Ben/OneDrive/Documents/GitHub/comp1151-game-prototype-itsyaboi123123/COMP1151 Game Prototype/Assets/Tiled/TilemapGame/Tileset Assessment.tsx",
+        "Tilemap_Asessment.tmx",
+        "Tilemap_prototype desert.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

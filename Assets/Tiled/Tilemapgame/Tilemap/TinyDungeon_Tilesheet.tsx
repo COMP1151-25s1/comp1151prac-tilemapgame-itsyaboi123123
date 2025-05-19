@@ -5,9 +5,15 @@
   <property name="unity:layer" value="Hazard"/>
  </properties>
  <image source="tilemap.png" width="203" height="186"/>
+ <tile id="0">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
  <tile id="28">
   <objectgroup draworder="index" id="2">
    <object id="1" x="0" y="0" width="16" height="16"/>
+   <object id="2" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
  <tile id="29">
@@ -19,6 +25,7 @@
   <objectgroup draworder="index" id="2">
    <object id="1" x="0" y="0" width="16" height="16"/>
    <object id="2" x="0" y="0" width="16" height="16"/>
+   <object id="3" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
  <tile id="37">
@@ -36,6 +43,12 @@
   </objectgroup>
  </tile>
  <tile id="39">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0" y="0" width="16" height="16"/>
+   <object id="2" x="0" y="0" width="16" height="16"/>
+  </objectgroup>
+ </tile>
+ <tile id="40">
   <objectgroup draworder="index" id="2">
    <object id="1" x="0" y="0" width="16" height="16"/>
   </objectgroup>

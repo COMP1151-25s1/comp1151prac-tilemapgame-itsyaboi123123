@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="16" tileheight="16" infinite="1" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" source="../../../../comp1151-game-prototype-itsyaboi123123/COMP1151 Game Prototype/Assets/Tiled/TilemapGame/Tileset Assessment.tsx"/>
+ <layer id="1" name="Environment" width="30" height="20">
+  <data encoding="csv">
+   <chunk x="0" y="0" width="16" height="16">
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,13,1,1,1,1,1,1,1,1,1,
+1,25,1,1,1,1,1,1,1,1,1,1,1,13,1,1,
+1,1,1,1,1,1,1,1,1,25,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,25,1,1,1,1,1,1,1,1,1,25,1,1,
+1,1,1,1,1,1,1,25,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,13,1,1,1,1,
+1,1,1,13,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,25,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,25,1,1,1,
+51,51,51,51,53,1,1,1,1,1,1,1,1,1,1,1,
+50,49,49,49,49,53,1,1,1,1,1,1,1,1,13,1,
+49,50,43,50,49,49,53,1,1,1,1,1,1,1,1,1,
+43,49,49,49,49,50,49,53,1,1,1,1,1,1,1,1
+</chunk>
+  </data>
+ </layer>
+ <layer id="2" name="Foreground" width="30" height="20">
+  <data encoding="csv"/>
+ </layer>
+</map>
