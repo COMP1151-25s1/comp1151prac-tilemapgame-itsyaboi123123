@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Tilemap/TinyDungeon_Tilesheet.tsx",
+    "activeFile": "PhysTilemap.tmx",
     "expandedProjectPaths": [
-        "Tilemap",
+        ".",
         "Tilemap/tilemap",
-        "."
+        "Tilemap"
     ],
     "fileStates": {
         "Drafttilemap.tmx": {
@@ -16,6 +16,14 @@
             "viewCenter": {
                 "x": 176.99999999999997,
                 "y": 76.33333333333334
+            }
+        },
+        "PhysTilemap.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 60,
+                "y": 243.5
             }
         },
         "Tilemap.tmx": {
@@ -42,12 +50,14 @@
     "map.tileWidth": 16,
     "openFiles": [
         "Tilemap/TinyDungeon_Tilesheet.tsx",
-        "Tilemap.tmx"
+        "Tilemap.tmx",
+        "PhysTilemap.tmx"
     ],
     "project": "gameTilemap.tiled-project",
     "recentFiles": [
-        "Tilemap.tmx",
         "Tilemap/TinyDungeon_Tilesheet.tsx",
+        "Tilemap.tmx",
+        "PhysTilemap.tmx",
         "Tilemap/tilemap/TinyDungeon_Tilesheet.tsx",
         "Drafttilemap.tmx"
     ],
