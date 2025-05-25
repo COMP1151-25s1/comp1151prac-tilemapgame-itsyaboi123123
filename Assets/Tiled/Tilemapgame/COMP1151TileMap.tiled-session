@@ -3,10 +3,22 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "C:/Users/Ben/OneDrive/Documents/GitHub/comp1151-game-prototype-itsyaboi123123/COMP1151 Game Prototype/Assets/Tiled/TilemapGame/COMP1151TileSet.tsx",
     "expandedProjectPaths": [
     ],
     "fileStates": {
+        "C:/Users/Ben/OneDrive/Documents/GitHub/comp1151-game-prototype-itsyaboi123123/COMP1151 Game Prototype/Assets/Tiled/TilemapGame/COMP1151TileMap.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 98,
+                "y": 152.75
+            }
+        },
+        "C:/Users/Ben/OneDrive/Documents/GitHub/comp1151-game-prototype-itsyaboi123123/COMP1151 Game Prototype/Assets/Tiled/TilemapGame/COMP1151TileSet.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
         "C:/Users/Ben/OneDrive/Documents/GitHub/comp1151-game-prototype-itsyaboi123123/COMP1151 Game Prototype/Assets/Tiled/TilemapGame/TileSetCOMP1151.tsx": {
             "scaleInDock": 3,
             "scaleInEditor": 1
@@ -18,9 +30,13 @@
     "map.tileHeight": 16,
     "map.tileWidth": 16,
     "openFiles": [
+        "C:/Users/Ben/OneDrive/Documents/GitHub/comp1151-game-prototype-itsyaboi123123/COMP1151 Game Prototype/Assets/Tiled/TilemapGame/COMP1151TileSet.tsx",
+        "C:/Users/Ben/OneDrive/Documents/GitHub/comp1151-game-prototype-itsyaboi123123/COMP1151 Game Prototype/Assets/Tiled/TilemapGame/COMP1151TileMap.tmx"
     ],
     "project": "COMP1151TileMap.tiled-project",
     "recentFiles": [
+        "C:/Users/Ben/OneDrive/Documents/GitHub/comp1151-game-prototype-itsyaboi123123/COMP1151 Game Prototype/Assets/Tiled/TilemapGame/COMP1151TileMap.tmx",
+        "C:/Users/Ben/OneDrive/Documents/GitHub/comp1151-game-prototype-itsyaboi123123/COMP1151 Game Prototype/Assets/Tiled/TilemapGame/COMP1151TileSet.tsx",
         "C:/Users/Ben/OneDrive/Documents/GitHub/comp1151-game-prototype-itsyaboi123123/COMP1151 Game Prototype/Assets/Tiled/TilemapGame/TileSetCOMP1151.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
